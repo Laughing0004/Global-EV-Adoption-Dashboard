@@ -10,7 +10,7 @@
 
 ## 📌 Dashboard Preview
 
-![Global EV Adoption Dashboard]("C:\Users\Purus\OneDrive\Desktop\BI Dashboard.png")
+![Global EV Adoption Dashboard]("BI Dashboard.png")
 
 ---
 
